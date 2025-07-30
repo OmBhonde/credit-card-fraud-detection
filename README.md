@@ -206,18 +206,6 @@ python -m pytest tests/ -v
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📚 References
-- [European Credit Card Fraud Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
-- [Handling Imbalanced Datasets](https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/)
-- [SMOTE: Synthetic Minority Oversampling Technique](https://arxiv.org/abs/1106.1813)
-- [XGBoost: A Scalable Tree Boosting System](https://arxiv.org/abs/1603.02754)
-
-## 👤 Author
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
 ## 🙏 Acknowledgments
 - Kaggle for providing the dataset
 - scikit-learn community for excellent documentation
